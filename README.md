@@ -2,25 +2,27 @@
 
 A simple, user-friendly command-line To-Do list application written in Python. Manage your tasks directly from the terminal without relying on third-party software or complex UIs. Perfect for beginners learning Python or anyone looking for a lightweight task manager.
 
+> 🔗 GitHub Repository: [SpaceCadetUltra/simple_task_tracker](https://github.com/SpaceCadetUltra/simple_task_tracker/tree/main)
+
 ---
 
 ## 🚀 Features
 
-- ✅ Add, update, and delete tasks
-- 📋 View all tasks or filter by status (done, not done, in progress)
-- 🔢 Sort tasks by ID, title, or status
-- 💾 All data stored locally in a `tasks.json` file
-- 🧠 Simple structure, easy to extend
+- ✅ Add, update, and delete tasks  
+- 📋 View all tasks or filter by status (done, not done, in progress)  
+- 🔢 Sort tasks by ID, title, or status  
+- 💾 All data stored locally in a `tasks.json` file  
+- 🧠 Simple structure, easy to extend  
 
 ---
 
 ## 📦 Installation
 
-1. **Clone the repo** (or download the `.py` file manually):
+1. **Clone the repo**:
 
    ```bash
-   git clone https://github.com/yourusername/tasker-cli.git
-   cd tasker-cli
+   git clone https://github.com/SpaceCadetUltra/simple_task_tracker.git
+   cd simple_task_tracker
    ```
 
 2. **Run with Python**:
@@ -98,7 +100,7 @@ If you'd like to share this as a standalone Windows `.exe`:
 ## 📁 File Structure
 
 ```
-tasker-cli/
+simple_task_tracker/
 │
 ├── tasker.py        # Main Python script
 ├── tasks.json       # Auto-created on first run to store tasks
@@ -109,7 +111,7 @@ tasker-cli/
 
 ## 📌 Requirements
 
-- Python 3.x
+- Python 3.x  
 - No external libraries needed
 
 ---
